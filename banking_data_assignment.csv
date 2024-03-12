@@ -1,0 +1,164 @@
+Transaction Date,Account Number,Transaction Type,Amount,Description
+2023-04-25,ACClOO7,Online Transfer,3708,Utilities
+2023-12-03,ACClOO4,ATM Withdrawal,$3825,Online Purchase
+2023-03-08,ACClOO3,Deposit,-160,Rent
+2023-03-06,ACClOO7,Online Transfer,$4551,Groceries
+2023-06-07,ACClOO3,Online Transfer,$-4605,Rent
+2023-11-10,ACClOO8,Online Transfer,1321,Groceries
+2023-08-02,ACClOO9,Direct Debit,4793,Groceries
+2023-12-22,ACClOO2,Card Payment,-2368,Salary
+2023-07-28,SUBTOTAL,,-59.0,
+2023-08-06,ACClOO4,Withdrawal,268,Transfer
+2023-02-01,ACClOO2,Online Transfer,$3738,Salary
+2023-01-05,ACClOO9,ATM Withdrawal,$-2013,Transfer
+2023-08-05,ACClOO8,Online Transfer,-3462,Groceries
+2023-09-13,ACClOOl,Card Payment,-1314,Salary
+2023-12-20,ACClOO8,Direct Debit,$-2137,Groceries
+2023-01-23,ACClOOO,Online Transfer,-827,Groceries
+2023-01-27,ACClOO7,Deposit,4830,Utilities
+2023-01-11,ACClOO4,Online Transfer,2127,Groceries
+2023-12-08,ACClOOO,Deposit,-139,Groceries
+2023-07-22,ACClOO2,Card Payment,-155,Online Purchase
+2023-05-02,ACClOO7,Online Transfer,$1120,Online Purchase
+2023-05-28,SUBTOTAL,,-16045.0,
+2023-05-04,ACClOO6,Online Transfer,1187,Transfer
+2023-07-26,ACClOO3,ATM Withdrawal,4574,Transfer
+2023-08-26,ACClOO6,Deposit,4976,Rent
+2023-11-20,ACClOO3,Deposit,-238,Transfer
+2023-03-28,SUBTOTAL,,3283.0,
+2023-06-13,ACClOO9,ATM Withdrawal,-2681,Online Purchase
+2023-07-14,ACClOO8,Card Payment,$-1280,Online Purchase
+2023-02-23,ACClOO5,Direct Debit,4825,Utilities
+2023-03-09,ACClOO6,Online Transfer,-2991,Rent
+2023-05-11,ACClOO4,Deposit,3617,Online Purchase
+2023-01-01,ACClOO9,Card Payment,122,Transfer
+2023-02-17,ACClOO2,Online Transfer,-1962,Online Purchase
+2023-11-24,ACClOO6,Card Payment,$4108,Groceries
+2023-05-13,ACClOO6,Direct Debit,603,Utilities
+2023-09-18,ACClOO9,Direct Debit,-547,Salary
+2023-12-04,ACClOOO,Direct Debit,-307,Salary
+2023-02-10,ACClOOO,Card Payment,-1319,Rent
+2023-09-14,ACClOO8,Direct Debit,$-3210,Utilities
+2023-12-28,ACClOO5,Card Payment,$-4186,Online Purchase
+2023-05-04,ACClOOl,Direct Debit,-192,Salary
+2023-08-07,ACClOO6,Card Payment,$1114,Rent
+2023-10-10,ACClOOl,Withdrawal,$-2174,Salary
+2023-08-10,ACClOO9,ATM Withdrawal,479,Online Purchase
+2023-08-13,ACClOO9,ATM Withdrawal,1650,Salary
+2023-02-14,ACClOO5,Card Payment,-1546,Utilities
+2023-02-23,ACClOO3,Online Transfer,-3345,Online Purchase
+2023-07-21,ACClOO5,Online Transfer,-752,Salary
+2023-08-04,ACClOO5,Withdrawal,-2820,Rent
+2023-04-15,ACClOO9,Direct Debit,-2640,Transfer
+2023-08-28,ACClOO3,ATM Withdrawal,-1930,Transfer
+2023-09-18,ACClOOl,Deposit,-694,Online Purchase
+2023-10-11,ACClOO4,Online Transfer,1638,Groceries
+2023-03-26,ACClOOO,ATM Withdrawal,-1111,Groceries
+2023-05-08,ACClOO6,Online Transfer,-2963,Salary
+2023-03-09,ACClOO2,Online Transfer,-3935,Rent
+2023-12-31,YEARLY TOTAL,,-62124.0,
+2023-02-18,ACClOO6,Direct Debit,1208,Salary
+2023-02-17,ACClOOO,Withdrawal,4752,Online Purchase
+2023-02-28,ACClOO3,Withdrawal,$-1595,Transfer
+2023-08-12,ACClOOl,Direct Debit,-4092,Salary
+2023-07-02,ACClOOl,Deposit,-1553,Online Purchase
+2023-05-10,ACClOOO,Withdrawal,$-1986,Online Purchase
+2023-04-25,ACClOOl,Card Payment,$2897,Salary
+2023-06-14,ACClOO6,Deposit,$-1339,Groceries
+2023-09-05,ACClOO7,Withdrawal,$1433,Groceries
+2023-10-23,ACClOOO,ATM Withdrawal,2762,Rent
+2023-10-16,ACClOO2,Direct Debit,3352,Utilities
+2023-06-21,ACClOO5,Direct Debit,-691,Rent
+2023-04-22,ACClOO4,Card Payment,989,Groceries
+2023-12-28,SUBTOTAL,,-6214.0,
+2023-05-26,ACClOOl,ATM Withdrawal,-3204,Groceries
+2023-11-01,ACClOO9,Direct Debit,$-1780,Groceries
+2023-01-07,ACClOO4,Withdrawal,-1109,Online Purchase
+2023-11-21,ACClOO3,ATM Withdrawal,-4447,Transfer
+2023-01-10,ACClOO9,Withdrawal,$-4853,Utilities
+2023-02-10,ACClOO3,Card Payment,-1208,Salary
+2023-08-25,ACClOOO,Online Transfer,1453,Groceries
+2023-10-28,SUBTOTAL,,4345.0,
+2023-03-01,ACClOOl,Card Payment,4903,Utilities
+2023-02-28,SUBTOTAL,,-6399.0,
+2023-05-19,ACClOO2,Deposit,768,Salary
+2023-07-20,ACClOO5,Card Payment,4070,Utilities
+2023-08-26,ACClOO6,Online Transfer,-2375,Utilities
+2023-09-18,ACClOO8,Deposit,-3006,Rent
+2023-09-19,ACClOO9,Card Payment,3078,Groceries
+2023-07-03,ACClOO2,Direct Debit,-3133,Online Purchase
+2023-05-08,ACClOOl,Deposit,-2098,Rent
+2023-11-08,ACClOO4,ATM Withdrawal,1404,Transfer
+2023-12-05,ACClOO4,Card Payment,4186,Utilities
+2023-07-03,ACClOO2,Deposit,682,Transfer
+2023-05-14,ACClOO7,Online Transfer,1836,Salary
+2023-04-28,SUBTOTAL,,1584.0,
+2023-04-05,ACClOO2,Card Payment,4120,Rent
+2023-05-10,ACClOO9,Withdrawal,-3187,Rent
+2023-06-14,ACClOO2,ATM Withdrawal,-2250,Groceries
+2023-01-28,ACClOO2,Direct Debit,-2154,Transfer
+2023-09-28,SUBTOTAL,,-17563.0,
+2023-06-28,ACClOO2,Deposit,4438,Rent
+2023-01-03,ACClOOl,Deposit,-2272,Salary
+2023-11-28,ACClOOl,Card Payment,-837,Rent
+2023-01-08,ACClOO9,ATM Withdrawal,1032,Online Purchase
+2023-12-19,ACClOOl,ATM Withdrawal,-2276,Online Purchase
+2023-11-11,ACClOO2,Direct Debit,$-4543,Online Purchase
+2023-02-28,ACClOO7,Withdrawal,-4083,Utilities
+2023-07-04,ACClOO4,Card Payment,-76,Utilities
+2023-12-18,ACClOO2,Withdrawal,3480,Utilities
+2023-03-24,ACClOOO,Online Transfer,283,Salary
+2023-03-23,ACClOO7,Withdrawal,-1972,Transfer
+2023-01-16,ACClOO4,Deposit,-3937,Rent
+2023-07-28,ACClOO9,Deposit,-4128,Rent
+2023-09-25,ACClOO2,Withdrawal,-3765,Transfer
+2023-12-17,ACClOO5,Direct Debit,-2544,Transfer
+2023-09-01,ACClOO9,ATM Withdrawal,-2834,Salary
+2023-06-19,ACClOO7,Card Payment,4863,Transfer
+2023-09-16,ACClOO4,Withdrawal,-3747,Rent
+2023-11-09,ACClOO8,ATM Withdrawal,-1996,Salary
+2023-09-14,ACClOO4,Deposit,-4780,Salary
+2023-02-19,ACClOO4,Direct Debit,-4550,Groceries
+2023-05-08,ACClOOO,Deposit,$-3329,Rent
+2023-09-01,ACClOO4,Card Payment,1852,Rent
+2023-05-18,ACClOO6,Online Transfer,-4145,Utilities
+2023-09-14,ACClOO5,Withdrawal,-3967,Rent
+2023-08-21,ACClOO9,Withdrawal,-3469,Online Purchase
+2023-11-16,ACClOOO,ATM Withdrawal,3208,Online Purchase
+2023-06-16,ACClOO7,Withdrawal,1731,Online Purchase
+2023-12-16,ACClOO7,Online Transfer,-3697,Rent
+2023-04-19,ACClOO4,ATM Withdrawal,$-4258,Online Purchase
+2023-01-04,ACClOOO,Withdrawal,-2958,Rent
+2023-10-10,ACClOO6,ATM Withdrawal,-3936,Utilities
+2023-08-12,ACClOO2,Direct Debit,$1014,Utilities
+2023-06-28,SUBTOTAL,,-534.0,
+2023-08-28,SUBTOTAL,,-5849.0,
+2023-11-17,ACClOO7,Card Payment,2166,Rent
+2023-05-12,ACClOO6,ATM Withdrawal,-4562,Online Purchase
+2023-10-15,ACClOO8,ATM Withdrawal,3908,Salary
+2023-08-23,ACClOO9,Withdrawal,-3448,Rent
+2023-01-11,ACClOO5,Deposit,$3686,Online Purchase
+2023-02-20,ACClOO3,Deposit,-3243,Online Purchase
+2023-07-04,ACClOOO,Deposit,$-4182,Transfer
+2023-04-11,ACClOO6,Direct Debit,-3232,Groceries
+2023-07-21,ACClOO7,Withdrawal,4848,Transfer
+2023-01-21,ACClOO2,Online Transfer,-3928,Transfer
+2023-07-22,ACClOO4,Deposit,4851,Rent
+2023-11-22,ACClOO5,ATM Withdrawal,1111,Transfer
+2023-05-16,ACClOO3,Card Payment,$954,Rent
+2023-12-13,ACClOO3,Direct Debit,-51,Transfer
+2023-07-12,ACClOO4,Direct Debit,-3825,Rent
+2023-02-23,ACClOO7,Withdrawal,1929,Utilities
+2023-11-04,ACClOO7,Card Payment,1259,Transfer
+2023-09-16,ACClOO3,Withdrawal,757,Salary
+2023-10-25,ACClOO5,Deposit,-569,Utilities
+2023-11-28,SUBTOTAL,,-2944.0,
+2023-01-05,ACClOOl,Deposit,-3475,Transfer
+2023-01-28,SUBTOTAL,,-15729.0,
+2023-03-28,ACClOO3,Direct Debit,3715,Groceries
+2023-09-09,ACClOO8,Withdrawal,$222,Rent
+2023-09-27,ACClOO2,Card Payment,4071,Rent
+2023-11-02,ACClOO9,Card Payment,-3680,Groceries
+2023-10-27,ACClOO7,Online Transfer,-636,Rent
+2023-09-10,ACClOOO,Card Payment,-1112,Online Purchase
+2023-05-19,ACClOOl,Withdrawal,-464,Transfer
